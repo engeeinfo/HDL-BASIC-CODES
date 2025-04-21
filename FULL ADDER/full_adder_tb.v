@@ -1,4 +1,3 @@
-
 module half_adder_tb;
 reg a,b,c;
 wire sum,carry;
