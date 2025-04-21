@@ -15,4 +15,4 @@ in=3'b101; #100;
 in=3'b110; #100;
 in=3'b111; #100;
 end
-endmodule 
+endmodule
