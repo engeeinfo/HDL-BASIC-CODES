@@ -24,5 +24,3 @@ output carry;
 assign sum=a^b^c;
 assign carry=b*c+a*b+c*a;
 endmodule 
-
-
