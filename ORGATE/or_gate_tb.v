@@ -18,4 +18,3 @@ b=1;
 #10;
 end
 endmodule
-
