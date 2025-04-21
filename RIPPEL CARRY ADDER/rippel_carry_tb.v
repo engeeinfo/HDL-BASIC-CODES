@@ -28,4 +28,3 @@ b=4'b0001;
 #10;
 end
 endmodule
-
