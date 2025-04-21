@@ -23,5 +23,3 @@ qbar<=qbar;
 end
 end
 endmodule
-
-
